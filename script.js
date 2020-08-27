@@ -45,6 +45,7 @@ fromAmount.addEventListener('change')
 toCurrency.addEventListener('change')
 toAmount.addEventListener('change')
 
+
 function calculate () {
   const fromCurrency = fromCurrency.value
   const toCurrency = toCurrency.value
