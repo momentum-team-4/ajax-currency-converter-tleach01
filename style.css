@@ -2,4 +2,29 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  font-family: sans-serif;
+}
+
+
+#rate{
+  background-color: rgb(120, 196, 196);
+  padding: 15px;
+  width: 200px;
+}
+
+#fromCurrency{
+  background-color: rgb(24, 113, 148);
+  color: aliceblue;
+  padding: 15px;
+}
+
+#toCurrency{
+    background-color: rgb(24, 113, 148);
+    color: aliceblue;
+    padding: 15px;
+}
+
+#convert-button{
+    margin-top: 10px;
+    padding: 10px;
 }
